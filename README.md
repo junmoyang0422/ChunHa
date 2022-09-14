@@ -4,5 +4,8 @@
 - DB : 김성원
 - Design : 권지현
 
+## Design
+- .[figma](https://www.figma.com/file/8E7y1JmsEySDMbd6AnFxdv/Untitled?node-id=115%3A63)
 
-.[양준모](https://www.instagram.com/)
+## 참고자료 
+- .[RaucoHouse](https://raucohouse.com/)
