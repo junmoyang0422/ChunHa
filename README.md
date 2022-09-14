@@ -5,7 +5,6 @@
 - Design : 권지현
 
 ## Design
-- [figma](https://www.figma.com/file/8E7y1JmsEySDMbd6AnFxdv/Untitled?node-id=115%3A63](https://www.figma.com/file/8E7y1JmsEySDMbd6AnFxdv/Untitled?node-id=0%3A1)
-
+- [figma](https://www.figma.com/file/8E7y1JmsEySDMbd6AnFxdv/Untitled?node-id=0%3A1)
 ## 참고자료 
 - [RaucoHouse](https://raucohouse.com/)
